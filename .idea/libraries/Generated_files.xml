@@ -2,11 +2,13 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/local/templates/MyStore/js/jquery-3.6.0.min.js" />
         <item url="file://$PROJECT_DIR$/local/templates/MyStore/js/jquery-3.6.0.min.min.js" />
         <item url="file://$PROJECT_DIR$/local/templates/MyStore/js/myscripts.min.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/local/templates/MyStore/js/jquery-3.6.0.min.js" />
       <root url="file://$PROJECT_DIR$/local/templates/MyStore/js/jquery-3.6.0.min.min.js" />
       <root url="file://$PROJECT_DIR$/local/templates/MyStore/js/myscripts.min.js" />
     </CLASSES>
